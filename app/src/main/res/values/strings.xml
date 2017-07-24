@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+
+    <string-array name="name_curso">
+
+        <item>Andres Bravo</item>
+        <item>Sindy Moran</item>
+        <item>Bianka Sanchez</item>
+        <item>Fernanda Alava</item>
+        <item>Silvia Villao</item>
+        <item>Harold Alava</item>
+        <item>Roberto Sanchez</item>
+
+    </string-array>
+
+</resources>
